@@ -1,17 +1,12 @@
 #! /bin/bash
 
 
-echo " _  _                   _       _                  _   _          "
-echo "| \| |_ __  __ _ _ __  /_\ _  _| |_ ___ _ __  __ _| |_(_)___ _ _  "
-echo "| .` | '  \/ _` | '_ \/ _ \ || |  _/ _ \ '  \/ _` |  _| / _ \ ' \ "
-echo "|_|\_|_|_|_\__,_| .__/_/ \_\_,_|\__\___/_|_|_\__,_|\__|_\___/_||_|"
-echo "                |_|                                               "
-echo " ___          ___ _    _         _    _    "
-echo "| _ )_  _ ___| _ (_)__| |_  __ _| |__| |_  "
-echo "| _ \ || |___|   / (_-< ' \/ _` | '_ \ ' \ "
-echo "|___/\_, |   |_|_\_/__/_||_\__,_|_.__/_||_|"
-echo "     |__/                                  "
-echo "Make sure to drop a star on the Github Repository."
+
+echo ".____________________________________."
+echo "|                                    |"
+echo "|          NmapAutomation            |"
+echo "|____________________________________| "
+echo "                           By-Rishabh"
 
 
 echo "Choose the type of scan you want to perform : "
@@ -32,7 +27,7 @@ echo "14-TCP Window Scan"
 echo "15-SCTP Cookie Echo Scan"
 echo "16-TCP Maimon Scan"
 echo "17-Port Scanning"
-echo "Enter your scan choice: "
+echo "Enter the scan code according to the above index: "
 read scanchoice
 echo "Enter the IP Address/IP Range/Domain to perform the scan on : "
 read ip
