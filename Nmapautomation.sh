@@ -1,14 +1,5 @@
 #! /bin/bash
-
-
-
-echo ".____________________________________."
-echo "|                                    |"
-echo "|          NmapAutomation            |"
-echo "|____________________________________| "
-echo "                           By-Rishabh"
-
-
+cat nmapautologo.txt
 echo "Choose the type of scan you want to perform : "
 echo "1-ARP Ping Scan"
 echo "2-ICMP Echo Scan"
