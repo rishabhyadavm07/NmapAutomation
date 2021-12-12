@@ -5,7 +5,7 @@
 # Nmap Automation
 
 Hi,
-I'm a information security resercher and a newbie in Programming and Developement of tools used in Info-Sec Domain.
+I'm a Information Security Resercher and a newbie in Programming and Developement of tools used in Info-Sec Domain.
 
 Just made this simple tool to make things easier for myself and many more like me. While using Nmap we often forget the scan flags/tags which are essential and can get you a mine of information about the target .
 
