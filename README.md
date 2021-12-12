@@ -28,6 +28,11 @@ sudo ./Nmapautomation.sh
 ## Screenshots
 
 ![App Screenshot](/images/1.png)
+**The above screenshot demonstartes ARP ping scan using NmapAutomation.**
+![App Screenshot](/images/2.png)
+**The above screenshot demonstartes TCP SYN scan using NmapAutomation.**
+![App Screenshot](/images/3.png)
+**The above screenshot demonstartes Stealth scan using NmapAutomation.**
 
 
 ## Authors
