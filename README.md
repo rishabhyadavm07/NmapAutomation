@@ -8,9 +8,9 @@ Hi,
 I'm a Information Security Resercher and a newbie in Programming and Developement of tools used in Info-Sec Domain.
 
 Just made this simple tool to make things easier for myself and many more like me. While using Nmap we often forget the scan flags/tags which are essential and can get you a mine of information about the target .
-This tool is written in bash.
+#### ***This tool is written in bash***.
 
-### -:- It does not require installation of any tool other than Nmap
+### -:- ***It does not require installation of any tool other than Nmap***
 
 
 
@@ -27,7 +27,7 @@ sudo ./Nmapautomation.sh
     
 ## Screenshots
 
-![App Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nbcnews.com%2Ftechnolog%2Fno-googling-says-google-unless-you-really-mean-it-1c9078566&psig=AOvVaw31G0TJo1IIto9LHYpMIHJs&ust=1639391660369000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDWnf-H3vQCFQAAAAAdAAAAABAD)
+![App Screenshot](/images/1.png)
 
 
 ## Authors
