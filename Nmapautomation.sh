@@ -27,7 +27,7 @@ echo "14-TCP Window Scan"
 echo "15-SCTP Cookie Echo Scan"
 echo "16-TCP Maimon Scan"
 echo "17-Port Scanning"
-
+echo "Enter your scan choice: "
 read scanchoice
 echo "Enter the IP Address/IP Range/Domain to perform the scan on : "
 read ip
